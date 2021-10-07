@@ -1,6 +1,14 @@
 # nene-killer
 用于收集甲级战犯nene在汉化圈仗势为非作歹的罪证。
 
+## QQ群恰钱事件
+大山的孩子手机可真好
+大山的孩子网速可真快啊
+![avatar](https://github.com/FuckThemida/nene-killer/blob/main/QQ%E6%88%AA%E5%9B%BE20211007220630.png)
+![avatar](https://github.com/FuckThemida/nene-killer/blob/main/photo_2021-10-01_11-10-27.jpg)
+![avatar](https://github.com/FuckThemida/nene-killer/blob/main/photo_2021-10-01_11-12-45.jpg)
+![avatar](https://github.com/FuckThemida/nene-killer/blob/main/photo_2021-10-01_11-17-17.jpg)
+
 ## 哈密达斯补丁塞垃圾事件
 使用完全无用的thenilda壳加密，导致补丁出现严重性能问题，进而让游戏频繁崩溃。补丁内部充斥着远超本体游戏文件数量的各种私货垃圾。似乎nene想让copper替他的私货背锅进而实现网暴的目的，同时让白井木汉化组恶名远扬。该事件也是直接导致The nextgal Team组成的原因。 
 ![avatar](https://github.com/FuckThemida/nene-killer/blob/main/QQ%E6%88%AA%E5%9B%BE20211007215646.png)
