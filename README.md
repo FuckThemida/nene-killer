@@ -7,9 +7,11 @@
 
 ## parquet塞垃圾事件
 往玩家设备里倒垃圾，宣泄他对不可描述之物的渴望。
+![avatar](https://github.com/FuckThemida/nene-killer/blob/main/IMG_20210923_003816_704.jpg)
 
 ## 世界末日陨落之星盗版汉化补丁事件
 尚未确定战犯是否取得移植授权。透过移除原先汉化组汉化信息与在脚本内增加自己名字来迷惑玩家认为是nene个人汉化。资源获得处声明该版本为nene机翻（存疑，如若并非nene行为请nene团队自查内鬼），但实际上经过比对与默示汉化组pc文本一致。
+![avatar](https://github.com/FuckThemida/nene-killer/blob/main/photo_2021-09-11_21-10-59.jpg)
 
 ## 抄也抄了半个月事件
 xmoe将nene的帖子在微博挂起来，其内容概括大致如下：“魔女的夜宴kr不是重新汉化的，是对着pc文本抄的，抄也抄了半个月呢！”
