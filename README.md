@@ -16,3 +16,5 @@
 ## 抄也抄了半个月事件
 xmoe将nene的帖子在微博挂起来，其内容概括大致如下：“魔女的夜宴kr不是重新汉化的，是对着pc文本抄的，抄也抄了半个月呢！”
 合理推断战犯并未取得移植授权。移除汉化信息并再度加入自己的名字迷惑玩家，使得xmoe出山谴责该行为。
+![avatar](https://github.com/FuckThemida/nene-killer/blob/main/photo_2021-09-23_14-04-45.jpg)
+![avatar](https://github.com/FuckThemida/nene-killer/blob/main/QQ%E6%88%AA%E5%9B%BE20211007220113.png)
