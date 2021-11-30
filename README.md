@@ -1,6 +1,14 @@
 # nene-killer
 用于收集甲级战犯nene在汉化圈仗势为非作歹的罪证。
 
+# 太无语了，标题都不好写
+用泥潭流风的工具，生成破解补丁，三个文件 AdvHD.exe，AdvHD.exe.org，Mai@KF.dll,
+然后拿来个EVB（虚拟机文件打包器），打包在一起，变成单个exe文件，有何用意不揣测。
+这也不是第一次了。泥潭某人以前从不注明补丁来源，AS转载还以为是泥潭某人破的。
+![avatar](https://github.com/Dir-A/nene-killer/blob/main/56_678189_14454c5b4c47d1f.png)
+![avatar](https://github.com/Dir-A/nene-killer/blob/main/56_678189_ed05f17048bcb9a.png)
+![avatar](https://github.com/Dir-A/nene-killer/blob/main/56_678189_092163003a0c683.png)
+
 ## QQ群恰钱事件
 大山的孩子手机可真好
 大山的孩子网速可真快啊
